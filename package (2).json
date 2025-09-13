@@ -1,0 +1,30 @@
+{
+  "name": "mental-health-care-plan-wix",
+  "version": "1.0.0",
+  "description": "Mental Health Care Plan Generator - Simplified Wix Studio Version",
+  "main": "api/process.js",
+  "scripts": {
+    "dev": "vercel dev",
+    "deploy": "vercel --prod"
+  },
+  "keywords": [
+    "mental health",
+    "medical",
+    "care plan",
+    "australian gp",
+    "racgp",
+    "wix studio",
+    "vercel"
+  ],
+  "author": "Medical Care Plan Generator",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/mental-health-care-plan"
+  }
+}
